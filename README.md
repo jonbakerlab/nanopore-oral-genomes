@@ -8,3 +8,5 @@ This repository contains supplemental data files for the publication "Using nano
 -The "draft-assemblies" folder contains the draft assemblies of Actinomyces graevenitzii JCVI-JB-Ag28, Lachnospiraceae HMT-096 JCVI-JB-L28, Rothia mucilaginosa JCVI-JB-Rm28, and Ruminococcaceae HMT-075 JCVI-JBR28-chr1.  Ruminococcaceae HMT-075 JCVI-JBR28-chr1 is likely to be highly accurate, but was not deposited to NCBI because it is only one chromosome of what is almost certainly a multi-chromosome genome.  The other three draft assemblies had poor coverage of Illumina reads for polishing, and therefore are likely to retain many errors for the ONT seqeuncing.
 
 -The "pangenomes" folder contains the data tables of the pangenome information for Actinomyces, Atopobiaceae, Mogibacterium, Rothia, and Saccharibacteria (only complete genomes were considered in these analyses.
+
+-Supplemental Files S1 and S2 contain gDNA chromatograms and concentrations for the various extraction methods, as analyzed on an Agilent Tape Station.
