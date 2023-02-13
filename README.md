@@ -1,5 +1,7 @@
 # nanopore-oral-genomes
-This repository contains supplemental data files for the publication "Using nanopore sequencing to obtain complete genomes from saliva samples" by Jonathon L. Baker, PhD. If you use this data, please cite this GitHub repository (or the publication, when that goes live).
+This repository contains supplemental data files for the publication "Using nanopore sequencing to obtain complete genomes from saliva samples" by Jonathon L. Baker, PhD. If you use this data, please cite the publication:
+  
+  Baker, J.L. Using nanopore sequencing to obtain complete genomes from saliva samples. mSystems. 2022 Aug 22:e0049122. doi: 10.1128/msystems.00491-22.
 
 -The "G6-polypolish-assemblies" folder contains reassemblies of JB001 and JB003 using metaFlye and Polypolish for comparison with the current NCBI versions (GenBank accession numbers: CP072208 and CP076102) which were assembled using Unicycler, metaFlye, Trycycler, Medaka, and Pilon, and then manually corrected.
 
